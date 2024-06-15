@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/app-landing/static/css/main.838cadfb.css",
+    "main.js": "/app-landing/static/js/main.49145176.js",
+    "index.html": "/app-landing/index.html",
+    "main.838cadfb.css.map": "/app-landing/static/css/main.838cadfb.css.map",
+    "main.49145176.js.map": "/app-landing/static/js/main.49145176.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.838cadfb.css",
+    "static/js/main.49145176.js"
+  ]
+}
